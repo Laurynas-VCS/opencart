@@ -1,0 +1,54 @@
+15:52:05.805 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+15:52:05.811 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+15:52:05.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****
+15:52:53.663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\testng.xml"
+15:52:53.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\testng.xml
+
+15:52:53.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+15:52:53.897 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+15:52:53.909 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+15:52:53.909 [main] DEBUG testCases.TC_001_AccountRegistrationTest - debug logs...
+15:56:06.061 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\crossbrowsertests.xml"
+15:56:06.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\crossbrowsertests.xml
+
+15:56:08.034 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+15:56:08.034 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+15:56:08.105 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:56:08.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+15:56:08.444 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+15:56:11.150 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:56:11.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+15:56:11.173 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+15:56:11.175 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+15:56:11.175 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****
+15:56:14.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+15:56:14.168 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+15:56:14.214 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:56:14.510 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+15:56:14.510 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+15:56:17.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:56:17.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+15:56:17.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+15:56:17.284 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+15:56:17.284 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****
+15:57:18.105 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\crossbrowsertests.xml"
+15:57:18.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\crossbrowsertests.xml
+
+15:57:19.906 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+15:57:19.909 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+15:57:19.969 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:57:20.272 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+15:57:20.272 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+15:57:21.563 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+15:57:21.563 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+15:57:21.606 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:57:21.916 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+15:57:21.916 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+15:57:23.205 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+15:57:23.231 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+15:57:23.231 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+15:57:23.232 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+15:57:23.232 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****

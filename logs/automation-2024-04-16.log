@@ -1,0 +1,59 @@
+09:04:37.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\final.xml"
+09:04:37.745 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\final.xml
+
+09:07:44.473 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\final.xml"
+09:07:44.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\final.xml
+
+09:07:50.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+09:07:50.780 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+09:07:51.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+09:07:51.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+09:07:51.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+09:07:54.474 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:07:54.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+09:07:54.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+09:07:54.511 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+09:07:54.511 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****
+09:07:56.243 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest ****
+09:07:56.243 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs...
+09:07:56.548 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+09:07:56.911 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+09:07:56.918 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password...
+09:07:57.369 [main] INFO  testCases.TC_002_LoginTest - Click on login button...
+09:07:57.412 [main] INFO  testCases.TC_002_LoginTest - Login test passed..
+09:07:57.412 [main] INFO  testCases.TC_002_LoginTest - ***Finished TC_002_LoginTest***
+09:10:15.063 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\final.xml"
+09:10:15.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\final.xml
+
+09:10:17.331 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+09:10:17.331 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+09:10:17.398 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+09:10:17.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+09:10:17.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+09:10:20.465 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:10:20.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+09:10:20.493 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
+09:10:20.494 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application ends...
+09:10:20.494 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****finished TC_001_AccountRegistrationTest  *****
+09:10:21.841 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002_LoginTest ****
+09:10:21.841 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs...
+09:10:21.894 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+09:10:22.138 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+09:10:22.139 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password...
+09:10:22.527 [main] INFO  testCases.TC_002_LoginTest - Click on login button...
+09:10:32.554 [main] ERROR testCases.TC_002_LoginTest - Login test failed
+09:12:34.609 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lkace\PavanJavaCourse\opencart\final.xml"
+09:12:34.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lkace\PavanJavaCourse\opencart\final.xml
+
+09:12:36.745 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****starting TC_001_AccountRegistrationTest  *****
+09:12:36.745 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs...
+09:12:36.807 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+09:12:37.088 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registartion link
+09:12:37.088 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+09:12:39.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+09:12:39.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+09:12:39.846 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed..
